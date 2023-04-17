@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ncy-s, and this is my personal account. Please don't stalk me.
+- 👋 Hi, I’m ncy-s, and this is my personal account. 
 - 👀 I’m interested in FPGA design, which is most of what I'll be doing on my main.
 - 🌱 I’m currently learning Verilog, and probably VHDL at some point.
 - 💞️ I’m not looking to collaborate for now.
